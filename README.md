@@ -5,3 +5,8 @@ Voici les différents packages à installer (j'espère ne pas en avoir oublier) 
   react-native-reanimated
   react-native-safe-area-context
   react-native-screens
+  react-native
+  expo/vector-icons
+  axios
+  react-native-elements
+  react-navigation
