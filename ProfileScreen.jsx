@@ -39,6 +39,7 @@ const ProfileScreen = () => {
             style={styles.profileImage}
           />
         </TouchableOpacity>
+        <Text >Tu peux changer ta photo de profil en cliquant dessus</Text>
         <Text style={styles.username}>benito_212</Text>
       </View>
       <View style={styles.section}>
